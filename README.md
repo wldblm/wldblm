@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Walid fullstack web developer
+- 👋 Hi, I’m Walid software engineer
 - 👀 I’m interested in Java/Spring and React
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on any project
